@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Queue
+comment1.params=
+comment1.target=Queue()
+comment2.params=follower
+comment2.target=void\ addToQueue(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ removeFromQueue()
+comment4.params=
+comment4.target=boolean\ isEmpty()
+numComments=5

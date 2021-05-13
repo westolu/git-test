@@ -1,0 +1,3 @@
+50 2 25
+50 1 50
+daysRan peopleInfected daysRan/peopleInfected
